@@ -1,0 +1,41 @@
+.footer {
+    background-color: whitesmoke;
+    height: fit-content; 
+    margin-bottom: 10px;
+}
+.footerSec {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap; 
+}
+.footerSecSsn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
+.logoSsn {
+    width: 300px; 
+        }
+
+.footerSecRedes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly; 
+}
+.footerSecRedes a {
+    color: grey;
+    margin: 10px 50px 10px 0px;
+}
+
+@media only screen and (max-width: 768px) {
+.logoSsn{
+    width: 250px; 
+}
+.footerSecRedes a {
+    margin-right: 15px; 
+}
+}

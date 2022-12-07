@@ -1,0 +1,21 @@
+.auditoria{
+    margin-bottom: 20px;
+
+}
+.tituliLinea{
+    height: auto;
+    margin: 10px 0px 10px 0px;
+    background-color: #003e55; 
+}
+
+.auditoriaText{
+    margin: 20px;
+    font-family: "Open Sans";
+}
+.auditoriaAviso {
+    font-weight: bolder;
+    border: solid 3px #003e55;
+    text-align: center;
+    padding: 10px;
+    letter-spacing: 0px; 
+}

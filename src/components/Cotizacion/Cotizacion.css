@@ -1,0 +1,37 @@
+.tituliLinea{
+    height: auto;
+    margin: 10px 0px 10px 0px;
+    background-color: #003e55; 
+}
+.titulo{
+    font-family: "Open Sans";
+    text-align: center;
+    padding: 5px;
+    letter-spacing: 0px;
+    color: whitesmoke;
+    font-size: 24px;
+}
+
+
+.formulario {
+    background-color: #003e55;
+    color: whitesmoke;
+    font-family: "Open Sans";
+    height: fit-content;
+    text-align: center;
+    padding: 20px;
+    letter-spacing: 0px; 
+}
+
+.formItem {
+    padding: 10px; 
+}
+.formItem textarea {
+    resize: none; 
+    }
+
+.aclaracion p{
+    color: #fec82f;
+    text-align: left;
+    margin: 0px;
+}

@@ -1,0 +1,47 @@
+.tituliLinea{
+    height: auto;
+    margin: 10px 0px 10px 0px;
+    background-color: #003e55; 
+}
+.titulo{
+    font-family: "Open Sans";
+    text-align: center;
+    padding: 5px;
+    letter-spacing: 0px;
+    color: whitesmoke;
+    font-size: 24px;
+}
+
+.cardGroup{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.btCotizar{
+    margin: 10px;
+}
+
+.card{
+    font-size: 14px;
+    width: 500px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.cedasaba {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 15px; 
+}
+.cedasaba h4 {
+    font-family: "Bebas Neue";
+    letter-spacing: 5px; 
+}
+.cedasaba img {
+    height: 100px; }

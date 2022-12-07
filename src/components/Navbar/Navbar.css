@@ -1,0 +1,20 @@
+.nav{
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+
+.logo{
+    margin: 20px;
+    height: 80px;
+}
+
+.categories{
+    margin: 20px;
+    font-family: "Bebas Neue";
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
